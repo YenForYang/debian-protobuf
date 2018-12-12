@@ -1,0 +1,2 @@
+protobuf-3.6.1.1/debian/tmp/usr/lib/x86_64-linux-gnu/libprot*.a filter=lfs diff=lfs merge=lfs -text
+protobuf-3.6.1.1/debian/tmp/usr/lib/x86_64-linux-gnu/libprotoc.so.17.0.0 filter=lfs diff=lfs merge=lfs -text

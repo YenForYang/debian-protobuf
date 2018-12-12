@@ -1,0 +1,13 @@
+Package: libprotobuf-lite17-dbgsym
+Source: protobuf
+Version: 3.6.1.1-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+Installed-Size: 1511
+Depends: libprotobuf-lite17 (= 3.6.1.1-1)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libprotobuf-lite17
+Build-Ids: c7b3aab353ff56a1dc85c5fa6a4748373b34c647
