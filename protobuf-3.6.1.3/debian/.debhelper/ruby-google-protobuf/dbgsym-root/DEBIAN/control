@@ -1,0 +1,14 @@
+Package: ruby-google-protobuf-dbgsym
+Source: protobuf
+Version: 3.6.1.3-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+Installed-Size: 343
+Depends: ruby-google-protobuf (= 3.6.1.3-1)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for ruby-google-protobuf
+Build-Ids: 5d98e3249d52c9fd9873ee02635dd3294f918d8c
+Ruby-Versions: ruby2.5

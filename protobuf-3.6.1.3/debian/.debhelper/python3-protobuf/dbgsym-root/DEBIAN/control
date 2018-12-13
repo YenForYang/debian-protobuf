@@ -1,0 +1,13 @@
+Package: python3-protobuf-dbgsym
+Source: protobuf
+Version: 3.6.1.3-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+Installed-Size: 743
+Depends: python3-protobuf (= 3.6.1.3-1)
+Section: debug
+Priority: optional
+Description: debug symbols for python3-protobuf
+Build-Ids: 897099b1159aa17e3199c2250c3bb36c0f8db53f c567eed4c51067541dfc3b6583e977741e26d840
+Python-Version: 3.7

@@ -1,0 +1,4 @@
+ruby:Versions=ruby2.5
+shlibs:Depends=libc6 (>= 2.11), libruby2.5
+misc:Depends=
+misc:Pre-Depends=

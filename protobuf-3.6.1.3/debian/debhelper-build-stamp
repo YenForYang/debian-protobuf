@@ -1,0 +1,10 @@
+ruby-google-protobuf
+libprotobuf17
+libprotobuf-lite17
+libprotobuf-dev
+libprotoc17
+libprotoc-dev
+protobuf-compiler
+python-protobuf
+python3-protobuf
+libprotobuf-java

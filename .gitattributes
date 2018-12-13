@@ -1,0 +1,5 @@
+#libprotoc-dev_*_amd64.deb filter=xz
+#**/libprotobuf-lite.a filter=xz
+#**/libprotobuf.a filter=xz
+#**/libprotoc.a filter=xz
+**.a filter=xz
